@@ -1,0 +1,59 @@
+com.example.taskmanager.app-jetified-profileinstaller-1.3.1-0 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/0433295f88e0690fe08253f83850ddf4/transformed/jetified-profileinstaller-1.3.1/res
+com.example.taskmanager.app-jetified-savedstate-ktx-1.2.1-1 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/1440f9b73e1f114900b45c3df8e7689d/transformed/jetified-savedstate-ktx-1.2.1/res
+com.example.taskmanager.app-jetified-ui-util-release-2 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/146707fa8f0cc1ac0be795f78cf9546f/transformed/jetified-ui-util-release/res
+com.example.taskmanager.app-jetified-savedstate-1.2.1-3 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/195c9cae3546e3fddb605be1701fcafe/transformed/jetified-savedstate-1.2.1/res
+com.example.taskmanager.app-lifecycle-livedata-core-2.8.6-4 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/1fd9c1d76d694ac1071508e8de9c4ff0/transformed/lifecycle-livedata-core-2.8.6/res
+com.example.taskmanager.app-jetified-material-release-5 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/2389ddc0dd6688dc532967f1eeb5f60c/transformed/jetified-material-release/res
+com.example.taskmanager.app-jetified-room-ktx-2.6.1-6 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/253ff29034c4d7817781c6bf98f83d8c/transformed/jetified-room-ktx-2.6.1/res
+com.example.taskmanager.app-core-runtime-2.2.0-7 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/2e3d13929878395a32039f7cec92ac71/transformed/core-runtime-2.2.0/res
+com.example.taskmanager.app-jetified-ui-geometry-release-8 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/3275dd24f92861fb399b5607af51e3c4/transformed/jetified-ui-geometry-release/res
+com.example.taskmanager.app-jetified-ui-release-9 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/36e0141b5b39a57ca3dae1a58618b04e/transformed/jetified-ui-release/res
+com.example.taskmanager.app-jetified-lifecycle-viewmodel-release-10 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/387caafbefff302f73d8b08b065bb309/transformed/jetified-lifecycle-viewmodel-release/res
+com.example.taskmanager.app-appcompat-1.7.1-11 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/3b2e2efb8e96e4ef27a39e3abf63cf4d/transformed/appcompat-1.7.1/res
+com.example.taskmanager.app-jetified-lifecycle-livedata-core-ktx-2.8.6-12 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/3fa3c8bf04d856e4ab157b6c1ba63d44/transformed/jetified-lifecycle-livedata-core-ktx-2.8.6/res
+com.example.taskmanager.app-jetified-lifecycle-process-2.8.6-13 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/41fd976bb5f97e176bbd9f2d51a94d1c/transformed/jetified-lifecycle-process-2.8.6/res
+com.example.taskmanager.app-jetified-ui-tooling-preview-release-14 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/46a38396283ab5010afa057a7d47b70c/transformed/jetified-ui-tooling-preview-release/res
+com.example.taskmanager.app-jetified-material-icons-core-release-15 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/4fc6e4750c6ccbc1bc7675a8ce90b951/transformed/jetified-material-icons-core-release/res
+com.example.taskmanager.app-jetified-ui-graphics-release-16 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/52ab73ffcb7ca20cd4c6ec57ca39e2eb/transformed/jetified-ui-graphics-release/res
+com.example.taskmanager.app-jetified-ui-tooling-data-release-17 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/53546e88404da4878fe704dc5decc7b8/transformed/jetified-ui-tooling-data-release/res
+com.example.taskmanager.app-jetified-startup-runtime-1.1.1-18 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/5970189654eea1f4e89de6f3d5689f13/transformed/jetified-startup-runtime-1.1.1/res
+com.example.taskmanager.app-jetified-graphics-path-1.0.1-19 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/59ff0877c234b5a04447f3ce8d2e27ec/transformed/jetified-graphics-path-1.0.1/res
+com.example.taskmanager.app-jetified-ui-tooling-release-20 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/5ce1658150aed7308dfdfb13f89d09b5/transformed/jetified-ui-tooling-release/res
+com.example.taskmanager.app-jetified-runtime-saveable-release-21 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/5e7f4e9d3161d0556e9416346ebd78fa/transformed/jetified-runtime-saveable-release/res
+com.example.taskmanager.app-jetified-activity-compose-1.9.2-22 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/5f71c0016e2a218bb71b2456b939f34c/transformed/jetified-activity-compose-1.9.2/res
+com.example.taskmanager.app-sqlite-framework-2.4.0-23 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/60a6a88b5a22ff4ca32bd62754e6bd15/transformed/sqlite-framework-2.4.0/res
+com.example.taskmanager.app-jetified-foundation-release-24 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/6a3a988d83f723322031f8ba32ab54e3/transformed/jetified-foundation-release/res
+com.example.taskmanager.app-jetified-lifecycle-viewmodel-ktx-2.8.6-25 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/73077487361c919f36a48a9ce0995fa7/transformed/jetified-lifecycle-viewmodel-ktx-2.8.6/res
+com.example.taskmanager.app-jetified-annotation-experimental-1.4.1-26 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/7bad86a90a1f53f95a9f1d5b1b82d385/transformed/jetified-annotation-experimental-1.4.1/res
+com.example.taskmanager.app-jetified-ui-unit-release-27 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/7d57b25e37cebf956daafa6e59e1b377/transformed/jetified-ui-unit-release/res
+com.example.taskmanager.app-jetified-ui-text-release-28 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/841dde5f88f99071504f0aa947131b27/transformed/jetified-ui-text-release/res
+com.example.taskmanager.app-fragment-1.5.4-29 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/84b4d896bdd3791b506b541964a3ab92/transformed/fragment-1.5.4/res
+com.example.taskmanager.app-jetified-material3-release-30 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/89a7bdde62edd62267f87a3248f17c84/transformed/jetified-material3-release/res
+com.example.taskmanager.app-jetified-core-ktx-1.13.1-31 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/8afe15298d261d5e633598d624b3d57f/transformed/jetified-core-ktx-1.13.1/res
+com.example.taskmanager.app-jetified-activity-1.9.2-32 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/8bd4ca2ab1558f899c05c6c35d0ec8e2/transformed/jetified-activity-1.9.2/res
+com.example.taskmanager.app-jetified-ui-test-manifest-1.7.0-33 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/8ffc8370edd45d35be206367e2c37cd1/transformed/jetified-ui-test-manifest-1.7.0/res
+com.example.taskmanager.app-jetified-activity-ktx-1.9.2-34 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/9399927ade80e6edbdbe9c96d0c161a4/transformed/jetified-activity-ktx-1.9.2/res
+com.example.taskmanager.app-jetified-animation-core-release-35 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/963e27e8db08ea35e302e8b4edfba352/transformed/jetified-animation-core-release/res
+com.example.taskmanager.app-jetified-emoji2-1.3.0-36 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/9e669c60cc37c301c1a81992169c8f45/transformed/jetified-emoji2-1.3.0/res
+com.example.taskmanager.app-jetified-lifecycle-runtime-compose-release-37 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/a21d8d98ef274dcf624e7f1d246c4270/transformed/jetified-lifecycle-runtime-compose-release/res
+com.example.taskmanager.app-jetified-emoji2-views-helper-1.3.0-38 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/a3bf13a088f6d30021e7710ec63a0867/transformed/jetified-emoji2-views-helper-1.3.0/res
+com.example.taskmanager.app-lifecycle-livedata-2.8.6-39 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/abe9c6d8dcac6675d50670459e7a9f0c/transformed/lifecycle-livedata-2.8.6/res
+com.example.taskmanager.app-sqlite-2.4.0-40 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/b0ca8e557b5985813dfe5e133a376877/transformed/sqlite-2.4.0/res
+com.example.taskmanager.app-jetified-foundation-layout-release-41 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/c6ceb8bcd44664bf95e419ef14d50c54/transformed/jetified-foundation-layout-release/res
+com.example.taskmanager.app-jetified-runtime-release-42 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/cac737185e085c109f5345c07c4677e3/transformed/jetified-runtime-release/res
+com.example.taskmanager.app-jetified-lifecycle-runtime-ktx-release-43 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/d03d9056eb77de41cf483a552403cfeb/transformed/jetified-lifecycle-runtime-ktx-release/res
+com.example.taskmanager.app-jetified-lifecycle-viewmodel-savedstate-2.8.6-44 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/d43f12ebfecc97292f802f80432fa368/transformed/jetified-lifecycle-viewmodel-savedstate-2.8.6/res
+com.example.taskmanager.app-jetified-appcompat-resources-1.7.1-45 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/d715f37b07a34b92c8a01735a65d9b78/transformed/jetified-appcompat-resources-1.7.1/res
+com.example.taskmanager.app-jetified-customview-poolingcontainer-1.0.0-46 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/da52e8497e5e15d5c97ae04cd9b8e918/transformed/jetified-customview-poolingcontainer-1.0.0/res
+com.example.taskmanager.app-jetified-material-ripple-release-47 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/ee80c378e7ba3881fa8f6f85febc386e/transformed/jetified-material-ripple-release/res
+com.example.taskmanager.app-room-runtime-2.6.1-48 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/f29cab2f73003d399b388e4b1c41f947/transformed/room-runtime-2.6.1/res
+com.example.taskmanager.app-core-1.13.1-49 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/f60d9d76dc53dababf9b5baf622555f8/transformed/core-1.13.1/res
+com.example.taskmanager.app-jetified-lifecycle-runtime-release-50 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/fde1761ee74a90752da0d9c261685918/transformed/jetified-lifecycle-runtime-release/res
+com.example.taskmanager.app-jetified-animation-release-51 /Users/imenebentifraouine/.gradle/caches/8.9/transforms/fea0c937f55f7e3b2d77c229dc51b4ed/transformed/jetified-animation-release/res
+com.example.taskmanager.app-pngs-52 /Users/imenebentifraouine/Downloads/dossier sans titre 2/TaskManager/app/build/generated/res/pngs/debug
+com.example.taskmanager.app-resValues-53 /Users/imenebentifraouine/Downloads/dossier sans titre 2/TaskManager/app/build/generated/res/resValues/debug
+com.example.taskmanager.app-packageDebugResources-54 /Users/imenebentifraouine/Downloads/dossier sans titre 2/TaskManager/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.taskmanager.app-packageDebugResources-55 /Users/imenebentifraouine/Downloads/dossier sans titre 2/TaskManager/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.taskmanager.app-debug-56 /Users/imenebentifraouine/Downloads/dossier sans titre 2/TaskManager/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.taskmanager.app-debug-57 /Users/imenebentifraouine/Downloads/dossier sans titre 2/TaskManager/app/src/debug/res
+com.example.taskmanager.app-main-58 /Users/imenebentifraouine/Downloads/dossier sans titre 2/TaskManager/app/src/main/res

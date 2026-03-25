@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.taskmanager.app-mergeDebugResources-54:/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/Users/imenebentifraouine/.gradle/caches/8.9/transforms/3b2e2efb8e96e4ef27a39e3abf63cf4d/transformed/appcompat-1.7.1/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        }
+    ]
+}
