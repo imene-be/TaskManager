@@ -21,6 +21,7 @@
         android:extractNativeLibs="false"
         android:label="TaskManager"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
         <activity
             android:name="com.example.taskmanager.MainActivity"
